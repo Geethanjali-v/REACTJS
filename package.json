@@ -1,0 +1,34 @@
+{
+  "name": "ep1",
+  "version": "1.0.0",
+  "description": "This is namaste React",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geethanjali-v/REACTJS.git"
+  },
+  "keywords": [
+    "react",
+    "namaste",
+    "react",
+    "jest"
+  ],
+  "author": "Geethanjali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Geethanjali-v/REACTJS/issues"
+  },
+  "homepage": "https://github.com/Geethanjali-v/REACTJS#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "@parcel/transformer-js": "^2.14.4",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
